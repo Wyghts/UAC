@@ -1,0 +1,28 @@
+# Environment & Secrets Exclusion
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+oauth/
+tokens/
+
+# Raw / Private Evidence & Transcripts
+evidence/raw/
+evidence/private/
+transcripts/raw/
+private/
+
+# Python & Build Artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE Configuration
+.vscode/
+.idea/
