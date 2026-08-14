@@ -1,0 +1,19 @@
+{
+  "service": {
+    "name": "edge-router",
+    "port": 8080,
+    "host": "localhost"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "json"
+  },
+  "database": {
+    "pool_size": 25,
+    "timeout_ms": 5000
+  },
+  "metrics": {
+    "enabled": true,
+    "interval_sec": 15
+  }
+}

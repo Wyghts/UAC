@@ -1,0 +1,4 @@
+### PRE-EXISTING CONFIG B ###
+storage_driver = NVME_POOL
+replication_factor = 3
+### END PRE-EXISTING CONFIG B ###

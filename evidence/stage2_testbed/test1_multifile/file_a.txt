@@ -1,0 +1,4 @@
+### PRE-EXISTING CONFIG A ###
+system_name = ALPHA_CORE
+base_concurrency = 4
+### END PRE-EXISTING CONFIG A ###
