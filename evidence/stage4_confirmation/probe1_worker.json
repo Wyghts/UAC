@@ -1,0 +1,5 @@
+{
+  "service": "worker_pool",
+  "max_workers": 16,
+  "timeout_seconds": 30
+}

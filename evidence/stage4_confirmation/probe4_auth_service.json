@@ -1,0 +1,5 @@
+{
+  "service": "auth_service",
+  "listen_protocol": "https",
+  "listen_port": 8443
+}

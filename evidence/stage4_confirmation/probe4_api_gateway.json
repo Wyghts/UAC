@@ -1,0 +1,5 @@
+{
+  "service": "api_gateway",
+  "upstream_protocol": "https",
+  "upstream_port": 8443
+}

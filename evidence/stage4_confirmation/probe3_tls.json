@@ -1,0 +1,5 @@
+{
+  "service": "gateway",
+  "tls_enabled": false,
+  "cert_path": null
+}
